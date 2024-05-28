@@ -1,0 +1,13 @@
+[
+    {
+        "server": "http://proxy1.example.com:port",
+        "username": "user1",
+        "password": "pass1"
+    },
+    {
+        "server": "http://proxy2.example.com:port",
+        "username": "user2",
+        "password": "pass2"
+    }
+    // 添加更多代理
+]
